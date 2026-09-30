@@ -6,12 +6,12 @@ Student/Intern based in the Netherlands, curious about how things work behind th
 ## 🛠️ Tech Stack
 
 Technical Skills
-Languages: Java, SQL, Python, JavaScript, HTML & CSS
-Concepts: OOP, API Design, Database Design
-Frameworks: Spring Boot, JavaFX
-Databases: MySQL, PostgreSQL
-Cloud & DevOps: Docker, AWS, Azure DevOps, Terraform, CI/CD
-Tools: Git, IntelliJ IDEA, VS Code, Eclipse, PgAdmin 4
+- Languages: Java, SQL, Python, JavaScript, HTML & CSS
+- Concepts: OOP, API Design, Database Design
+- Frameworks: Spring Boot, JavaFX
+- Databases: MySQL, PostgreSQL
+- Cloud & DevOps: Docker, AWS, Azure DevOps, Terraform, CI/CD
+- Tools: Git, IntelliJ IDEA, VS Code, Eclipse, PgAdmin 4
 
 ## 🌱 Currently Learning
 
